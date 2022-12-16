@@ -1,0 +1,2 @@
+# rna
+esercizio rna 
